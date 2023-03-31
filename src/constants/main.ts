@@ -1,0 +1,11 @@
+export const NEXT_PUBLIC_SUPABASE_URL = process.env.NEXT_PUBLIC_SUPABASE_URL;
+export const NEXT_PUBLIC_ANON_KEY = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
+export const NEXT_PUBLIC_BASE_URL = process.env.NEXT_PUBLIC_BASE_URL;
+export const STRIPE_PUBLISHABLE_KEY = process.env.STRIPE_PUBLISHABLE_KEY;
+export const STRIPE_SECRET_KEY = process.env.STRIPE_SECRET_KEY;
+export const CONTENTFUL_ACCESS_TOKEN = process.env.CONTENTFUL_ACCESS_TOKEN;
+export const NEXT_PUBLIC_SUPABASE_ADMIN_KEY = process.env.NEXT_PUBLIC_SUPABASE_ADMIN_KEY;
+export const WEBHOOK_SECRET = process.env.WEBHOOK_SECRET;
+export const ZOOM_SECRET_TOKEN = process.env.ZOOM_CLIENT_SECRET;
+export const ZOOM_BASE_URL = process.env.ZOOM_BASE_URL;
+export const ZOOM_ADMIN_ID = process.env.ZOOM_CLIENT_ID;
